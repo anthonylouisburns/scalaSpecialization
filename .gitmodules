@@ -1,0 +1,9 @@
+[submodule "coursera2"]
+	path = coursera2
+	url = https://github.com/anthonylouisburns/coursera2.git
+[submodule "coursera3"]
+	path = coursera3
+	url = https://github.com/anthonylouisburns/coursera3.git
+[submodule "coursera4"]
+	path = coursera4
+	url = https://github.com/anthonylouisburns/coursera4.git
